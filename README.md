@@ -2,7 +2,7 @@
 Instructor- Jonas Schmedtmann [Udemy](https://www.udemy.com/the-complete-javascript-course)
 
 ## Website
-[click here for website](https://69otherways.github.io/Advance-DOM/)
+[click here for website](https://69otherways.github.io/Pig-game/)
 
 ## Built With
 
