@@ -2,7 +2,7 @@
 Instructor- Jonas Schmedtmann [Udemy](https://www.udemy.com/the-complete-javascript-course)
 
 ## Website
-[click here for website](https://69otherways.github.io/Pig-game/)
+[click here for website](https://12otherways.github.io/Pig-game/)
 
 ## Instructions
 The game of Pig is dice game in which two players race to reach 100 points. Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player holds and scores the sum of the rolls (i.e. the turn total). At any time during a player's turn, the player is faced with two decisions:
