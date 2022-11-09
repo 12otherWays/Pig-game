@@ -19,4 +19,4 @@ hold - The turn total is added to the player's score and it becomes the opponent
 - JavaScript
 
 ## Re-creator
-- Reetu raj
+- Reetu Raj
